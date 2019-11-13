@@ -1,0 +1,11 @@
+Single page application (SPA)
+    
+    + Content rendered in the front-end
+    + No page reloading
+    + Interact with data via some JSON API
+
+Multiple page application
+
+
+
+    

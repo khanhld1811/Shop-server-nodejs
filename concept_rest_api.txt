@@ -1,0 +1,6 @@
+GET     /products       -> Get all product []
+GET     /products/:id    -> Get one product {}
+POST    /products       -> Create product
+PUT     /products/:id      -> Replace/Create product
+PATCH   /products/:id   -> Update product
+DELETE  /products/:id   -> Delete a product

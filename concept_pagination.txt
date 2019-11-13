@@ -1,0 +1,6 @@
+/products?page=2
+
+    Items in page n, with x items per page
+        begin = (n-1) * x = n * x - x
+        end = (n - 1) * x + x = n * x
+    Items = array.slide(begin, end)
